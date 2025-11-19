@@ -1,0 +1,23 @@
+{
+  "name": "projects",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000p\u0000r\u0000a\u0000c\u0000t\u0000i\u0000c\u0000e\u0000_\u0000s\u0000o\u0000f\u0000t\u0000w\u0000a\u0000r\u0000e\u0000_\u0000t\u0000e\u0000s\u0000t\u0000i\u0000n\u0000g\u0000_\u0000a\u0000u\u0000t\u0000o\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hngthvy/practice_software_testing_auto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/hngthvy/practice_software_testing_auto/issues"
+  },
+  "homepage": "https://github.com/hngthvy/practice_software_testing_auto#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.10.1"
+  }
+}
