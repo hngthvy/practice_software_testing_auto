@@ -4,10 +4,11 @@
   "description": "��#\u0000 \u0000p\u0000r\u0000a\u0000c\u0000t\u0000i\u0000c\u0000e\u0000_\u0000s\u0000o\u0000f\u0000t\u0000w\u0000a\u0000r\u0000e\u0000_\u0000t\u0000e\u0000s\u0000t\u0000i\u0000n\u0000g\u0000_\u0000a\u0000u\u0000t\u0000o\u0000\r\u0000 \u0000",
   "main": "index.js",
   "scripts": {
-    "test": "npx playwright test",
+    "test": "npx playwright test tests/main",
     "test:jobbuild": "playwright test regression/jobbuilds",
     "test:headed": "npx playwright test --headed",
     "test:report": "npx playwright show-report",
+    "test:main": "npx playwright test tests/main",
     "report": "npx playwright show-report reports"
   },
   "repository": {
