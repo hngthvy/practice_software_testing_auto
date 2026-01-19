@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "npx playwright test tests/main",
+    "test:clsstorage": "rimraf storage && npx playwright test tests/main",
     "test:jobbuild": "playwright test regression/jobbuilds",
     "test:headed": "npx playwright test --headed",
     "test:report": "npx playwright show-report",
@@ -28,6 +29,7 @@
     "@types/node": "^24.10.1",
     "csv-parse": "^6.1.0",
     "dotenv": "^17.2.3",
-    "fast-xml-parser": "^5.3.3"
+    "fast-xml-parser": "^5.3.3",
+    "rimraf": "^6.1.2"
   }
 }

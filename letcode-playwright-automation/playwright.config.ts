@@ -32,6 +32,10 @@ export default defineConfig({
     screenshot: 'only-on-failure',
     video: 'retain-on-failure',
     trace: 'on-first-retry',
+    storageState: 'storageState.json',
+    proxy: {
+      server: `http://${process.env.PROXY_IP_ADDRESS}:${process.env.PROXY_PORT}`
+    }
   },
   globalSetup: require.resolve('./setup'),
   globalTeardown: require.resolve('./teardown'),

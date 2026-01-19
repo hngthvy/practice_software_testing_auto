@@ -1,0 +1,105 @@
+{
+  "cookies": [
+    {
+      "name": "AUTH_SESSION_ID",
+      "value": "e7c11f89-6a85-4fec-8187-8ac52d708eb6.ip-172-26-172-218",
+      "domain": "account-stg-fb.fujifilm.com",
+      "path": "/auth/realms/spf/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AUTH_SESSION_ID_LEGACY",
+      "value": "e7c11f89-6a85-4fec-8187-8ac52d708eb6.ip-172-26-172-218",
+      "domain": "account-stg-fb.fujifilm.com",
+      "path": "/auth/realms/spf/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KEYCLOAK_IDENTITY",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJmMDQ5ZTVjYi02ZmRkLTQ4YzgtODk3MS0wNWY2N2QwMGFjZTAifQ.eyJleHAiOjE3Njg4ODIwNjYsImlhdCI6MTc2ODgxMDA2NiwianRpIjoiYWRmZjQ4NDctZmE3ZC00NWUwLTgzZTktNzRlNjg2YTgwMGQxIiwiaXNzIjoiaHR0cHM6Ly9hY2NvdW50LXN0Zy1mYi5mdWppZmlsbS5jb20vYXV0aC9yZWFsbXMvc3BmIiwic3ViIjoiZjo5M2ExYzFiYi1lYWIxLTQ5NDEtYTQxOS0zNDhhNjRiZGM1NDI6YTQyMjc1NDAyMyIsInR5cCI6IlNlcmlhbGl6ZWQtSUQiLCJzZXNzaW9uX3N0YXRlIjoiZTdjMTFmODktNmE4NS00ZmVjLTgxODctOGFjNTJkNzA4ZWI2Iiwic3RhdGVfY2hlY2tlciI6Im05NFZOTHQxU3M2ejZEeUJLQU4zSzE0RkdTeXJVbFg5Vm1uM1JIX3BPdmsifQ.VDRUEeWBwNRkDEfMdTxqnOBd7G_aw341yv7D_D21lUE",
+      "domain": "account-stg-fb.fujifilm.com",
+      "path": "/auth/realms/spf/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KEYCLOAK_IDENTITY_LEGACY",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJmMDQ5ZTVjYi02ZmRkLTQ4YzgtODk3MS0wNWY2N2QwMGFjZTAifQ.eyJleHAiOjE3Njg4ODIwNjYsImlhdCI6MTc2ODgxMDA2NiwianRpIjoiYWRmZjQ4NDctZmE3ZC00NWUwLTgzZTktNzRlNjg2YTgwMGQxIiwiaXNzIjoiaHR0cHM6Ly9hY2NvdW50LXN0Zy1mYi5mdWppZmlsbS5jb20vYXV0aC9yZWFsbXMvc3BmIiwic3ViIjoiZjo5M2ExYzFiYi1lYWIxLTQ5NDEtYTQxOS0zNDhhNjRiZGM1NDI6YTQyMjc1NDAyMyIsInR5cCI6IlNlcmlhbGl6ZWQtSUQiLCJzZXNzaW9uX3N0YXRlIjoiZTdjMTFmODktNmE4NS00ZmVjLTgxODctOGFjNTJkNzA4ZWI2Iiwic3RhdGVfY2hlY2tlciI6Im05NFZOTHQxU3M2ejZEeUJLQU4zSzE0RkdTeXJVbFg5Vm1uM1JIX3BPdmsifQ.VDRUEeWBwNRkDEfMdTxqnOBd7G_aw341yv7D_D21lUE",
+      "domain": "account-stg-fb.fujifilm.com",
+      "path": "/auth/realms/spf/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KEYCLOAK_SESSION",
+      "value": "spf/f:93a1c1bb-eab1-4941-a419-348a64bdc542:a422754023/e7c11f89-6a85-4fec-8187-8ac52d708eb6",
+      "domain": "account-stg-fb.fujifilm.com",
+      "path": "/auth/realms/spf/",
+      "expires": 1768882066.504993,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KEYCLOAK_SESSION_LEGACY",
+      "value": "spf/f:93a1c1bb-eab1-4941-a419-348a64bdc542:a422754023/e7c11f89-6a85-4fec-8187-8ac52d708eb6",
+      "domain": "account-stg-fb.fujifilm.com",
+      "path": "/auth/realms/spf/",
+      "expires": 1768882066.505026,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "RCP_SESSIONID",
+      "value": "f3963744e0f9c3a53c4efaae8977a31c970b5c111bc21f8f39f382c483999a5d",
+      "domain": "qa.rcp.fujifilm.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "X-RCP-TOKEN",
+      "value": "abddbbb6f911f7930163ea8dc10e08006deae40db65301cbf0adcd093ca46d2c",
+      "domain": "qa.rcp.fujifilm.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "AWSALB",
+      "value": "4PTwFIdS0bycMXbOBa8EiWIidv1WyrSn7ZiEefA3J5fOlWjfbRNHciFySV1lS6EB+MMLYmcDTGTiDF9VAkfUjvmRBdronZSVjTbT90UvdoXLCywXUHDM5xOTYlwe",
+      "domain": "account-stg-fb.fujifilm.com",
+      "path": "/",
+      "expires": 1769414866.504624,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AWSALBCORS",
+      "value": "4PTwFIdS0bycMXbOBa8EiWIidv1WyrSn7ZiEefA3J5fOlWjfbRNHciFySV1lS6EB+MMLYmcDTGTiDF9VAkfUjvmRBdronZSVjTbT90UvdoXLCywXUHDM5xOTYlwe",
+      "domain": "account-stg-fb.fujifilm.com",
+      "path": "/",
+      "expires": 1769414866.50479,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": []
+}
